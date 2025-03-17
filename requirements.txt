@@ -1,0 +1,2 @@
+tkinter==8.6
+hashlib==3.4.2
